@@ -1,0 +1,9 @@
+{
+  "input_dir": "data",
+  "output_dir": "output",
+  "trending_threshold": "-1",
+  "performance_monitoring": {
+    "enable_memory_monitor": true,
+    "stats_collection_interval": 1000
+  }
+}
